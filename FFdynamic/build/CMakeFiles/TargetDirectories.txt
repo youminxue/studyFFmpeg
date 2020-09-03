@@ -1,0 +1,17 @@
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/CMakeFiles/install/strip.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/CMakeFiles/install.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/CMakeFiles/list_install_components.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/CMakeFiles/rebuild_cache.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/CMakeFiles/edit_cache.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/CMakeFiles/install/local.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/CMakeFiles/ffdynamic.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/davTests/CMakeFiles/install/local.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/davTests/CMakeFiles/list_install_components.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/davTests/CMakeFiles/rebuild_cache.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/davTests/CMakeFiles/edit_cache.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/davTests/CMakeFiles/simpleTranscode.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/davTests/CMakeFiles/streamletMixerTest.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/davTests/CMakeFiles/install/strip.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/davTests/CMakeFiles/install.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/davTests/CMakeFiles/avMixerTest.dir
+/Users/isaac/Downloads/FFdynamic-master/FFdynamic/build/davTests/CMakeFiles/filterTest.dir

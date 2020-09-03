@@ -1,0 +1,16 @@
+# Hashes of file build rules.
+79d39a8ac676625757eb854473b777cb protos/CMakeFiles/python_protos_for_test
+2c42ec072e569659313e089f0552c223 protos/appGlobalSetting.pb.h
+db248dd2664aa6d82c31db95fa06a124 protos/appGlobalSetting_pb2.py
+9130c35bb4d8000848648b7e20271cff protos/davStreamletSetting.pb.h
+18d6eb66c3babffd6767fe5c9bdda7a7 protos/davStreamletSetting_pb2.py
+830e5231a247094fbc728f969f0273e9 protos/davWaveSetting.pb.h
+572f43b347c9576e7c2b591254f36c54 protos/davWaveSetting_pb2.py
+b5797b8a808150c1086124178294ccc2 protos/dynaDnnDetect.pb.h
+10efc9bbfeac2501651c532fd0398401 protos/dynaDnnDetect_pb2.py
+6a00fa001c0afa31e16e78b188861bae protos/ialConfig.pb.h
+da1e8e9cc16f15171906184e975d0498 protos/ialConfig_pb2.py
+94ec93872afa1434818de65844437a0d protos/ialRequest.pb.h
+a0162c5b8efd758c94121b73961eeb88 protos/ialRequest_pb2.py
+c0b88865a25bdaa770cd28b4e108d798 tools/pbtree/test.pb.h
+c0562b23e08d049f0d1b98dba0e7ecd7 tools/pbtree/test2.pb.h

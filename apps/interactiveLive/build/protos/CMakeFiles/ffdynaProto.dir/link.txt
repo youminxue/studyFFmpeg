@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libffdynaProto.a  CMakeFiles/ffdynaProto.dir/davWaveSetting.pb.cc.o CMakeFiles/ffdynaProto.dir/davStreamletSetting.pb.cc.o CMakeFiles/ffdynaProto.dir/appGlobalSetting.pb.cc.o CMakeFiles/ffdynaProto.dir/ialConfig.pb.cc.o CMakeFiles/ffdynaProto.dir/ialRequest.pb.cc.o CMakeFiles/ffdynaProto.dir/dynaDnnDetect.pb.cc.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libffdynaProto.a
